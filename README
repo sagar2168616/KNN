@@ -2,3 +2,7 @@
 Predict a price range, indicating how high the price is, using K-Nearest Neighbors 
 algorithm. 
 data shape is ( 2000,15)
+Steps involved are :-
+1.Loading the dataset
+<2.Data-Preprocessing>
+2.1 
