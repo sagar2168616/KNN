@@ -1,17 +1,1 @@
 # KNN
-Predict a price range, indicating how high the price is, using K-Nearest Neighbors 
-algorithm. 
-data shape is ( 2000,15)
-Steps involved are :-
-1.Loading the dataset
-2.Data-Preprocessing>
-2.1.Handling missing values
-2.2.Handling outliers
-2.3.Feature Scaling using Standardscalar
-2.4.Checking for imbalaned dataset
-3.EDA
-4.Splitting the dataset into train and test
-5.Building the model
-5.1.Predicting
-5.2.Performance metrics
-5.3.Chossing optimum k value
